@@ -14,7 +14,7 @@
     "url": "git@github.com:sunsinghal/devops-test1.git"
   },
   "devDependencies": {
-    "eslint": "5.15.1"
+    "eslint": "^5.15.1"
   },
   "license": "ISC",
   "author": "Sunil Singhal"
